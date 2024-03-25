@@ -1,0 +1,1 @@
+export const tempUrl = 'https://api.github.com/repos/facebook/react/issues';

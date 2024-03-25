@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+div, input, textarea, select, button {
+  outline: none !important;
+}
